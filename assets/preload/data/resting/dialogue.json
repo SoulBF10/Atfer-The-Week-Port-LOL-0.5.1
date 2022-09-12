@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.14,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "mmmm..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What's wrong BF?"
+		},
+		{
+			"sound": "",
+			"speed": 0.13,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It is very comfortable here. ngl"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh well then."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I bet your room is more comfortable."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Hehe yea (no it's not)"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hey..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh? What's wrong babe?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I just can't sleep, I've been thinking about things... you know what i mean.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "The reason why I wanted to enter your house is tat I wanted to be alone with you. to keep me calm."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Awww, don't worries, you don't need to be here to leave your crises,"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Because I will always be with you, even in your dreams and nightmares."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aww. thanks GF, i needed to hear that ;)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hehe, you're welcome babe ;3"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Say, do you want to sing a little\"?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Alright!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(Oh boy, this boy does like to rap...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(But I have no problem with that.)"
+		}
+	]
+}
