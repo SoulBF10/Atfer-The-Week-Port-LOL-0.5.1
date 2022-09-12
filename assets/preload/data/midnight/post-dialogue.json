@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Alright.. you beat us.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But we're not tired yet! Right Skid and Pump?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spookymidnight",
+			"boxState": "normal",
+			"expression": "sleep",
+			"text": "ZzZzZzZz"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Looks like you guys should go."
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "But if we were- Okay..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I think those two insomnia guys already took care of that lemon."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I better get out of here and take these two kids before those henchmens wakes up and kick me out."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "See ya then."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "sleep",
+			"text": "zZzZzZz"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Sweet dreams my boyfriend ;3"
+		}
+	]
+}

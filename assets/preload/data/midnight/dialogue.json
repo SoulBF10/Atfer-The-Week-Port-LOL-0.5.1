@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What's up dudes!! Pico is in the room!"
+		},
+		{
+			"sound": "",
+			"speed": 0.19,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bap..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Pico! What are you doing here? how did you avoid all the security of my house?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Tbh, i don't know"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, And i brought these two little boys."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spookymidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello Mr. Boyfriend and Ms. Girlfriend!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I was taking care of them while Lila wasn't home, and i sent them to the room"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Until that Lemon Monster came, trying to eat us."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So we decided to be at your house for a while."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Wait, if you have your Uzi, why didn't you finish him off?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I just leave it charging."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, We're here to have a rap battle 'cause BF owes me one."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, and I also brought my boombox for the vibe."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Listen, we'd love to be in a rap battle, but my boyfriend and I were about to-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsleep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep bop Skdoo bappity!"
+		},
+		{
+			"sound": "",
+			"speed": 0.12,
+			"portrait": "gfsleep",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "(You got to be kidding...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "picomidnight",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, Time to get you blueballed!"
+		}
+	]
+}
