@@ -1,0 +1,50 @@
+{
+	"storyName": "rappin n' chillin' with your girlfriend",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "sleep",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"After The Week",
+			"sleepy-gf",
+			[
+				64,
+				0,
+				42
+			]
+		],
+		[
+			"Resting",
+			"sleepy-gf",
+			[
+				64,
+				0,
+				42
+			]
+		],
+		[
+			"Midnight",
+			"partytrio",
+			[
+				114,
+				134,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
