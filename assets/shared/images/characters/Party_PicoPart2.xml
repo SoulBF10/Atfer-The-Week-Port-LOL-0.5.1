@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Party_PicoPart2.png">
+<SubTexture name="Pico Down Note0000" x="0" y="0" width="357" height="448" frameX="0" frameY="-7" frameWidth="357" frameHeight="455" />
+<SubTexture name="Pico Down Note0001" x="357" y="0" width="342" height="455" frameX="-8" frameY="0" frameWidth="357" frameHeight="455" />
+<SubTexture name="Pico Idle Dance0000" x="699" y="0" width="412" height="466" frameX="-3" frameY="-18" frameWidth="415" frameHeight="484" />
+<SubTexture name="Pico Idle Dance0001" x="0" y="466" width="407" height="471" frameX="-4" frameY="-12" frameWidth="415" frameHeight="484" />
+<SubTexture name="Pico Idle Dance0002" x="407" y="466" width="401" height="483" frameX="-5" frameY="-1" frameWidth="415" frameHeight="484" />
+<SubTexture name="Pico Idle Dance0003" x="808" y="466" width="400" height="484" frameX="-5" frameY="0" frameWidth="415" frameHeight="484" />
+<SubTexture name="Pico NOTE LEFT0000" x="0" y="950" width="332" height="474" frameX="0" frameY="0" frameWidth="335" frameHeight="474" />
+<SubTexture name="Pico NOTE LEFT0001" x="332" y="950" width="333" height="474" frameX="-2" frameY="0" frameWidth="335" frameHeight="474" />
+<SubTexture name="Pico Note Right0000" x="665" y="950" width="389" height="464" frameX="-1" frameY="-3" frameWidth="391" frameHeight="468" />
+<SubTexture name="Pico Note Right0001" x="0" y="1424" width="383" height="467" frameX="0" frameY="0" frameWidth="391" frameHeight="468" />
+<SubTexture name="pico Up note0000" x="383" y="1424" width="347" height="484" frameX="-3" frameY="0" frameWidth="351" frameHeight="485" />
+<SubTexture name="pico Up note0001" x="730" y="1424" width="345" height="483" frameX="0" frameY="-1" frameWidth="351" frameHeight="485" />
+</TextureAtlas>

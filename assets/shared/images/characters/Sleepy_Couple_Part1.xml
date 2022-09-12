@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sleepy_Couple_Part1.png">
+<SubTexture name="BF Down0000" x="0" y="0" width="916" height="571" frameX="0" frameY="-7" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Down0001" x="916" y="0" width="916" height="577" frameX="0" frameY="-1" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Down0002" x="1832" y="0" width="916" height="578" frameX="0" frameY="0" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Left0000" x="2748" y="0" width="916" height="571" frameX="0" frameY="-7" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Left0001" x="0" y="578" width="916" height="577" frameX="0" frameY="-1" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Left0002" x="916" y="578" width="916" height="578" frameX="0" frameY="0" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Right0000" x="1832" y="578" width="916" height="578" frameX="0" frameY="0" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Right0001" x="2748" y="578" width="915" height="577" frameX="0" frameY="-1" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Right0002" x="0" y="1156" width="916" height="578" frameX="0" frameY="0" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Up0000" x="916" y="1156" width="916" height="575" frameX="0" frameY="-3" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Up0001" x="1832" y="1156" width="916" height="577" frameX="0" frameY="-1" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF Up0002" x="2748" y="1156" width="915" height="578" frameX="0" frameY="0" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF and GF idle0000" x="0" y="1734" width="916" height="571" frameX="0" frameY="-7" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF and GF idle0001" x="916" y="1734" width="916" height="577" frameX="0" frameY="-1" frameWidth="916" frameHeight="578" />
+<SubTexture name="BF and GF idle0002" x="1832" y="1734" width="916" height="578" frameX="0" frameY="0" frameWidth="916" frameHeight="578" />
+<SubTexture name="GF Down0000" x="2748" y="1734" width="916" height="568" frameX="0" frameY="-17" frameWidth="916" frameHeight="585" />
+<SubTexture name="GF Down0001" x="0" y="2312" width="916" height="585" frameX="0" frameY="0" frameWidth="916" frameHeight="585" />
+<SubTexture name="GF Down0002" x="916" y="2312" width="916" height="585" frameX="0" frameY="0" frameWidth="916" frameHeight="585" />
+<SubTexture name="GF Left0000" x="1832" y="2312" width="916" height="571" frameX="0" frameY="-1" frameWidth="916" frameHeight="572" />
+<SubTexture name="GF Left0001" x="2748" y="2312" width="916" height="572" frameX="0" frameY="0" frameWidth="916" frameHeight="572" />
+<SubTexture name="GF Left0002" x="0" y="2897" width="916" height="572" frameX="0" frameY="0" frameWidth="916" frameHeight="572" />
+<SubTexture name="GF Right0000" x="916" y="2897" width="916" height="572" frameX="0" frameY="-5" frameWidth="916" frameHeight="577" />
+<SubTexture name="GF Right0001" x="1832" y="2897" width="916" height="576" frameX="0" frameY="-1" frameWidth="916" frameHeight="577" />
+<SubTexture name="GF Right0002" x="2748" y="2897" width="916" height="575" frameX="0" frameY="-2" frameWidth="916" frameHeight="577" />
+<SubTexture name="GF Up0000" x="0" y="3473" width="916" height="591" frameX="0" frameY="0" frameWidth="916" frameHeight="591" />
+<SubTexture name="GF Up0001" x="916" y="3473" width="916" height="585" frameX="0" frameY="-6" frameWidth="916" frameHeight="591" />
+<SubTexture name="GF Up0002" x="1832" y="3473" width="915" height="584" frameX="0" frameY="-7" frameWidth="916" frameHeight="591" />
+</TextureAtlas>
