@@ -1,0 +1,180 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				303,
+				-259
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "spooky sing right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				-267
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "spooky DOWN note",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				-244
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "spooky UP NOTE",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				337,
+				-246
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "note sing left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				-253
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "note sing leftAlt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				-253
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "spooky sing rightAlt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				295,
+				-254
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "spooky DOWN noteAlt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				-232
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "spooky UP NOTEAlt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				-254
+			],
+			"anim": "Wat",
+			"fps": 12,
+			"name": "spooky huh",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				270,
+				-129
+			],
+			"anim": "Sleep",
+			"fps": 12,
+			"name": "spooky sleep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				314,
+				-254
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SpookyKids",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "partytrio",
+	"flip_x": false,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-140,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

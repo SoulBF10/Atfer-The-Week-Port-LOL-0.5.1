@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				190
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "BF and GF idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				189
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "BF Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				189
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "BF Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				188
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "BF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				188
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "BF Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				182
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "GF Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				187
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "GF Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				202
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "GF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				197
+			],
+			"anim": "Off",
+			"fps": 12,
+			"name": "GF Turns off the radio",
+			"indices": []
+		},
+		{
+			"offsets": [
+				265,
+				197
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "GF Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sleepy_Couple_Part1",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sleepycouple",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		300,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

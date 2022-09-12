@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				70
+			],
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				54
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				61
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				102
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				248,
+				-17
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				280,
+				70
+			],
+			"anim": "Wat",
+			"fps": 12,
+			"name": "Pico wat",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Party_PicoV2",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "partytrio",
+	"flip_x": true,
+	"healthbar_colors": [
+		183,
+		216,
+		85
+	],
+	"camera_position": [
+		-220,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

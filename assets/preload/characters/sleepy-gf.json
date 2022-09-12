@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-60
+			],
+			"fps": 6,
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF Cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-79
+			],
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-80
+			],
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-56
+			],
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-80
+			],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-81
+			],
+			"fps": 12,
+			"anim": "sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "gf sad"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-69
+			],
+			"fps": 8,
+			"anim": "danceLeft",
+			"indices": [
+				7,
+				0,
+				1,
+				2
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-69
+			],
+			"fps": 8,
+			"anim": "danceRight",
+			"indices": [
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-47,
+				-68
+			],
+			"fps": 24,
+			"anim": "hairBlow",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "GF Dancing Beat Hair blowing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-69
+			],
+			"fps": 24,
+			"anim": "hairFall",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "GF Dancing Beat Hair Landing"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-47,
+				-77
+			],
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "GF FEAR"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sleepy_GF",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sleepy-gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
