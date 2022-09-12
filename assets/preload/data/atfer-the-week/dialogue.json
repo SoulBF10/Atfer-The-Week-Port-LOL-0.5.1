@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Phew, those rap battles were intense!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfrap"
+		},
+		{
+			"expression": "hehe",
+			"text": "Right BF?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfrap"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop skeep-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfrap"
+		},
+		{
+			"expression": "talk",
+			"text": "I meant, well yeah, did you see those guys' faces? and you were scared.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfrap"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes, but there are some who are very good people. like my sister!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfrap"
+		},
+		{
+			"expression": "confused",
+			"text": "bf, I've been thinking of something.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "gfrap"
+		},
+		{
+			"expression": "confused",
+			"text": "bap?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfrap"
+		},
+		{
+			"expression": "confused",
+			"text": "What if we should take a break?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfrap"
+		},
+		{
+			"expression": "confused",
+			"text": "I mean, we were rapping against demons and shit, my head hurts so much from moving to the beat...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfrap"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.2,
+			"portrait": "bfrap"
+		},
+		{
+			"expression": "excited",
+			"text": "Alright babe!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfrap"
+		},
+		{
+			"expression": "excited",
+			"text": "Anyway, I need to rest too, my voice hurts from rapping so much.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfrap"
+		},
+		{
+			"expression": "excited",
+			"text": "Good! let's go to my room, my parents are not in home at the moment.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfrap"
+		},
+		{
+			"expression": "demon",
+			"text": "There we can rest, and have fun for a while 7w7",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gfrap"
+		},
+		{
+			"expression": "shocked",
+			"text": "b-bap...?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "bfrap"
+		},
+		{
+			"expression": "excited",
+			"text": "I-I mean, Yeah!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfrap"
+		},
+		{
+			"expression": "excited",
+			"text": "Let's do it!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfrap"
+		}
+	]
+}
