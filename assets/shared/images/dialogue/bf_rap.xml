@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_rap.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf blush0000" x="10" y="10" width="387" height="412"/>
+	<SubTexture name="bf confused0000" x="397" y="10" width="387" height="412"/>
+	<SubTexture name="bf happy0000" x="10" y="422" width="387" height="412"/>
+	<SubTexture name="bf talk0000" x="397" y="422" width="387" height="412"/>
+</TextureAtlas>

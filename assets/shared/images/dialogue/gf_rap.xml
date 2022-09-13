@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_rap.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf cute0000" x="10" y="10" width="425" height="475"/>
+	<SubTexture name="gf happy0000" x="435" y="10" width="425" height="475"/>
+	<SubTexture name="gf horny0000" x="860" y="10" width="425" height="475"/>
+	<SubTexture name="gf talk0000" x="1285" y="10" width="425" height="475"/>
+	<SubTexture name="gf think0000" x="10" y="485" width="425" height="475"/>
+</TextureAtlas>

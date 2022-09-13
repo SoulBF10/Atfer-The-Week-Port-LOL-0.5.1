@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_sleep.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf huh0000" x="10" y="10" width="351" height="386"/>
+	<SubTexture name="bf serious0000" x="361" y="10" width="351" height="386"/>
+	<SubTexture name="bf shocked0000" x="712" y="10" width="351" height="386"/>
+	<SubTexture name="bf sleep0000" x="1063" y="10" width="351" height="370"/>
+	<SubTexture name="bf woke0000" x="1414" y="10" width="351" height="386"/>
+</TextureAtlas>
