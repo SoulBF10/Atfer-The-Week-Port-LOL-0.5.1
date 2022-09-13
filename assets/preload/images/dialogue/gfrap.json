@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.25,
+	"image": "gf_rap",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"loop_offsets": [
+				-1,
+				-2
+			],
+			"anim": "talk",
+			"idle_name": "gf talk0",
+			"loop_name": "gf talk"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				-1,
+				-2
+			],
+			"idle_name": "gf happy0",
+			"loop_name": "gf happy"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-2
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"loop_name": "gf think",
+			"idle_name": "gf think0"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-2
+			],
+			"anim": "demon",
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"loop_name": "gf horny",
+			"idle_name": "gf horny0"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-2
+			],
+			"anim": "hehe",
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"loop_name": "gf cute",
+			"idle_name": "gf cute0"
+		}
+	]
+}

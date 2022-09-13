@@ -1,0 +1,37 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "spooky",
+	"animations": [
+		{
+			"idle_offsets": [
+				-130,
+				-60
+			],
+			"loop_offsets": [
+				-130,
+				-60
+			],
+			"anim": "talk",
+			"idle_name": "spooky talk0",
+			"loop_name": "spooky talk"
+		},
+		{
+			"loop_name": "spooky sleep",
+			"idle_offsets": [
+				-160,
+				0
+			],
+			"idle_name": "spooky sleep0",
+			"anim": "sleep",
+			"loop_offsets": [
+				-160,
+				0
+			]
+		}
+	]
+}
